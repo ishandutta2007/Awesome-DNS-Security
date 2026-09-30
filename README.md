@@ -42,59 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+| Platform / Product | Company Size / Valuation | Starting Tier Pricing | Free Tier / Free Trial Limit | Key Features & Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Cisco Umbrella](https://umbrella.cisco.com/)** | ~$425B Market Cap ($56.65B Revenue) | $1,960.08/year ($163.34/month for DNS Essentials 100-pack) or $5.00/user/month | 14-day free trial (up to 1,000 users/devices) | Cloud-delivered security platform enforcing policy at DNS & IP layers. Trusted by 100M+ users with 100% DNS service uptime, domain reputation scoring, and Cisco SIG integration. |
+| **[NS1 (IBM NS1 Connect)](https://ns1.com/)** | ~$210B Market Cap ($62.0B Revenue) | $100.00/month (NS1 Essentials package) | 30-day free trial (full DNS routing & traffic steering functionality) | Intelligent DNS with DDoS resilience across 26 global PoPs, 100% uptime SLA, NS1 Trex™ near line-rate Qname attack filtering, and DNSSEC signing. |
+| **[Cloudflare Gateway](https://www.cloudflare.com/zero-trust/products/gateway/)** | ~$125B Market Cap ($2.17B Revenue) | $0.00/month (Free Tier); Paid tiers start at $7.00/user/month | Free forever for up to 50 users (Cloudflare Zero Trust free plan) | Zero Trust DNS filtering part of Cloudflare One. Enforces security threat categories (malware, phishing, C2), acceptable use policies, and optional TLS decryption. |
+| **[DNS Made Easy](https://dnsmadeeasy.com/)** | ~$8.0B Valuation ($500M Revenue) | $50.00/month (Business plan; entry tiers from $14.50/month) | 30-day free trial (full enterprise DNS management features) | Enterprise DNS with proprietary Real-Time Traffic Anomaly Detection (RTTAD) using ML to spot DDoS. Operates on AS16552 with true 100% uptime SLA. |
+| **[Infoblox BloxOne Threat Defense](https://www.infoblox.com/)** | ~$3.4B Valuation ($1.0B ARR) | $1,500.00/year (~$125.00/month token-based starting baseline) | 30-day free trial (via cloud test drive & hands-on lab access) | Protective DNS with threat intelligence feeds, DNS firewall, and Zero-Day DNS detection. Blocks domains within 1–2 minutes of registration to stop aging malicious domains. |
+| **[BlueCat](https://bluecatnetworks.com/)** | ~$1.8B Valuation (~$100M+ Revenue) | $500.00/month (Enterprise subscription baseline quote) | 30-day free trial (VM download for LiveAssurance / Horizon test drive) | Unified DDI (DNS, DHCP, IPAM) with optional Threat Protection add-on. Features hub-and-spoke architecture for enterprise DNS server management and DGA/tunneling protection. |
+| **[WebTitan](https://www.titanhq.com/)** | ~$200M Valuation (~$30M Revenue) | $0.40/user/month ($240.00/year minimum contract) | 14-day free trial (full web & DNS filtering for unlimited test users) | DNS filtering and web security for businesses and MSPs. Effective category-based web filtering blocking malicious and inappropriate domains. |
+| **[DNSFilter](https://www.dnsfilter.com/)** | ~$150M Valuation ($62M Funding, ~$40M Revenue) | $1.00/user/month ($240.00/year minimum contract for Basic plan) | 14-day free trial (no credit card required) | Protective DNS and content filtering for enterprises, MSPs, and schools. Real-time threat detection, DoT, PreCheck analytics, Entra ID integration, and MCP connector. |
+| **[Control D](https://controld.com/)** | ~$20M Valuation (~$5M Revenue) | $2.00/endpoint/month (or $20.00/year personal plan) | 14-day free trial (full access to custom rules, profiles & proxy locations) | Cloud-based DNS control panel offering granular per-device profiles, app blocking, domain redirection/spoofing, scheduled policies, and 100+ proxy exit locations. |
 
-
-- **[Infoblox BloxOne Threat Defense](https://www.infoblox.com/)**  
-
-  Enterprise protective DNS platform with threat intelligence feeds, DNS firewall, and Zero Day DNS detection. Blocks domains within 1-2 minutes of registration, eliminating the aging period for newly registered malicious domains . Available in Essentials, Business, and Advanced tiers with varying threat feed and protection levels . Features DNS tunneling/exfiltration blocking, DNS activity reporting, and cloud-based DNS firewall .
-
-
-
-- **[Cisco Umbrella](https://umbrella.cisco.com/)**  
-
-  Cloud-delivered security platform enforcing security at the DNS and IP layers, blocking malicious destinations before connection establishment . Trusted by 100+ million users, with 100% DNS service uptime and up to 73% latency reduction . Provides domain reputation scores, content filtering, and integrations with Cisco SIG. DNS Essentials starts at $1,960.08/license ; full Platform license at $284.99 .
-
-
-
-- **[DNSFilter](https://www.dnsfilter.com/)**  
-
-  Protective DNS and content filtering for enterprises, MSPs, and schools. Real-time threat detection spots threats 10 days faster than other feeds . Core plan starts at $1.00/license/month ($240/year minimum); Plus at $2.25/license/month ($750/year minimum) . Features DNS encryption (DNS-over-TLS), DNS PreCheck, CyberSight user behavior analytics, identity integrations (Entra ID/AD), and MCP Connector for AI assistant management .
-
-
-
-- **[BlueCat](https://bluecatnetworks.com/)**  
-
-  Unified DDI (DNS, DHCP, IPAM) platform with optional Threat Protection add-on enriching DNS data with crowdsourced intelligence . Features hub-and-spoke architecture managing thousands of DNS/DHCP servers from one appliance, 20-40% more LPS/QPS for equivalent resources, and role-based access controls . Trusted by government agencies for always-on operations and protection against DNS tunneling and DGA attacks .
-
-
-
-- **[DNS Made Easy](https://dnsmadeeasy.com/)**  
-
-  Enterprise DNS with proprietary Real-Time Traffic Anomaly Detection (RTTAD) using machine learning to identify unusual spikes, patterns, or DDoS events . Features flexible aggregation (global, regional, city/PoP level), custom alerts, and built-in DDoS protection at every PoP . Plans start at $50/month. Operates on AS16552 with true 100% uptime SLA and Tier 1 DDoS mitigation partnerships .
-
-
-
-- **[NS1](https://ns1.com/)**  
-
-  Intelligent DNS with DDoS resilience across 26 PoPs worldwide, backed by 100% uptime SLA . Features NS1 Trex™ nameserver software with near line-rate filtering for random Qname attacks, protocol filtering (drops non-DNS packets at edge), overbuilding/autoscaling to absorb attacks, and Super-POPs in key markets . DNSSEC signing without compromising traffic management .
-
-
-
-- **[Cloudflare Gateway](https://www.cloudflare.com/zero-trust/products/gateway/)**  
-
-  Zero Trust DNS filtering as part of Cloudflare One. Recommended deployment starts with DNS filtering (lowest effort, immediate protection): point network DNS to Gateway resolvers or deploy Cloudflare One Client in DNS-only mode; block security threat categories (malware, phishing, C2) and content categories violating acceptable use policy . Subsequent phases add network filtering, HTTP inspection with TLS decryption, and egress control .
-
-
-
-- **[Control D](https://controld.com/)**  
-
-  Cloud-based internet control panel offering granular DNS filtering beyond basic category blocking . Features device-specific profiles, service-level controls (block specific apps), custom rules (block/redirect/spoof specific domains, TLDs, or wildcards), scheduled behavior changes, and 100+ proxy exit locations . Positioned as a 30-second, zero-hardware alternative to Pi-hole . **Limitations**: Does not affect BitTorrent (P2P doesn't rely on DNS), cannot inspect page content (only domain lookups), and does not provide anonymity for life-critical use cases .
-
-
-
-- **[WebTitan](https://www.titanhq.com/)**  
-
-  DNS filtering and web security for businesses and MSPs. Effective web filtering blocking malicious and inappropriate sites, starting at $0.40/month . Used by organizations for 5+ years to resolve DNS issues with local providers .
 
 
 
