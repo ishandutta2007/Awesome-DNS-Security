@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-DNS-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-DNS-Security?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-DNS-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-DNS-Security?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-DNS-Security/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-DNS-Security?style=flat-square&color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-DNS-Security/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-DNS-Security?style=flat-square&color=green" alt="Last Commit"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,48 +67,48 @@ The table below summarizes commercial Protective DNS (PDNS) platforms, sorted by
 
 ## 💻 Open-Source GitHub Projects
 
-Below is the curated selection of open-source DNS sinkholes, resolvers, proxies, and blocklists sorted by **GitHub Star Count (Descending)**.
+Below is the curated selection of open-source DNS sinkholes, resolvers, proxies, and blocklists sorted by **GitHub Stars_Count (Descending)**.
 
-- **[Pi-hole](https://github.com/pi-hole/pi-hole)** [![GitHub stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=social)](https://github.com/pi-hole/pi-hole/stargazers) 🍓  
+- **[Pi-hole](https://github.com/pi-hole/pi-hole)** [![GitHub_Stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=social)](https://github.com/pi-hole/pi-hole/stargazers) 🍓  
   The de facto standard open-source network-wide ad and tracker-blocking DNS sinkhole. Runs on Raspberry Pi or any Linux environment, protecting all network devices without per-client software. Features web management console, DHCP server, DoH integration, and custom blocklist management.
 
-- **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** [![GitHub stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=social)](https://github.com/AdguardTeam/AdGuardHome/stargazers) 🏠  
+- **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** [![GitHub_Stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=social)](https://github.com/AdguardTeam/AdGuardHome/stargazers) 🏠  
   Open-source network-wide DNS filtering server with a modern dashboard. Supports DoT, DoH, DoQ, and DNSCrypt out of the box, per-client configuration rules, parental controls, safe search enforcement, and cross-platform Docker / binary deployment.
 
-- **[HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists)** [![GitHub stars](https://img.shields.io/github/stars/hagezi/dns-blocklists?style=social)](https://github.com/hagezi/dns-blocklists/stargazers) 🧹  
+- **[HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists)** [![GitHub_Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists?style=social)](https://github.com/hagezi/dns-blocklists/stargazers) 🧹  
   Extensive, daily-updated collection of high-purity DNS blocklists engineered to prevent ad tracking, malware, phishing, telemetry, and scam domains without breaking clean internet functionality. Compatible with Pi-hole, AdGuard Home, Unbound, and Blocky.
 
-- **[CoreDNS](https://github.com/coredns/coredns)** [![GitHub stars](https://img.shields.io/github/stars/coredns/coredns?style=social)](https://github.com/coredns/coredns/stargazers) ⚙️  
+- **[CoreDNS](https://github.com/coredns/coredns)** [![GitHub_Stars](https://img.shields.io/github/stars/coredns/coredns?style=social)](https://github.com/coredns/coredns/stargazers) ⚙️  
   Flexible, extensible DNS server written in Go that chains plugins to perform service discovery, custom rewriting, metrics generation, and DNSSEC validation. The default DNS engine for Kubernetes clusters worldwide.
 
-- **[DNSCrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)** [![GitHub stars](https://img.shields.io/github/stars/DNSCrypt/dnscrypt-proxy?style=social)](https://github.com/DNSCrypt/dnscrypt-proxy/stargazers) 🔐  
+- **[DNSCrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)** [![GitHub_Stars](https://img.shields.io/github/stars/DNSCrypt/dnscrypt-proxy?style=social)](https://github.com/DNSCrypt/dnscrypt-proxy/stargazers) 🔐  
   Flexible command-line DNS proxy supporting encrypted DNS protocols including DNSCrypt v2, Anonymized DNSCrypt, DNS-over-HTTPS (DoH), and Oblivious DoH (ODoH). Provides local query blocking, domain cloaking, and query logging.
 
-- **[SmartDNS](https://github.com/pymumu/smartdns)** [![GitHub stars](https://img.shields.io/github/stars/pymumu/smartdns?style=social)](https://github.com/pymumu/smartdns/stargazers) ⚡  
+- **[SmartDNS](https://github.com/pymumu/smartdns)** [![GitHub_Stars](https://img.shields.io/github/stars/pymumu/smartdns?style=social)](https://github.com/pymumu/smartdns/stargazers) ⚡  
   Local DNS server that queries multiple upstream DNS servers concurrently and returns the fastest IP address result. Features domain blocking, DoH/DoT upstream proxying, and geo-DNS optimization for ultra-low latency lookups.
 
-- **[miekg/dns](https://github.com/miekg/dns)** [![GitHub stars](https://img.shields.io/github/stars/miekg/dns?style=social)](https://github.com/miekg/dns/stargazers) 🛠️  
+- **[miekg/dns](https://github.com/miekg/dns)** [![GitHub_Stars](https://img.shields.io/github/stars/miekg/dns?style=social)](https://github.com/miekg/dns/stargazers) 🛠️  
   Complete, high-performance DNS library in Go supporting all standard RR types, DNSSEC signing, TSIG validation, and server building blocks. Trusted foundation behind CoreDNS and custom DNS microservices.
 
-- **[Blocky](https://github.com/0xERR0R/blocky)** [![GitHub stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=social)](https://github.com/0xERR0R/blocky/stargazers) 🧱  
+- **[Blocky](https://github.com/0xERR0R/blocky)** [![GitHub_Stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=social)](https://github.com/0xERR0R/blocky/stargazers) 🧱  
   Fast, lightweight DNS proxy and ad-blocker written in Go. Supports DoH/DoT upstreams, per-client blocklist grouping, Prometheus metrics, query logging, and low memory consumption in Docker containers.
 
-- **[Unbound](https://github.com/NLnetLabs/unbound)** [![GitHub stars](https://img.shields.io/github/stars/NLnetLabs/unbound?style=social)](https://github.com/NLnetLabs/unbound/stargazers) 🌲  
+- **[Unbound](https://github.com/NLnetLabs/unbound)** [![GitHub_Stars](https://img.shields.io/github/stars/NLnetLabs/unbound?style=social)](https://github.com/NLnetLabs/unbound/stargazers) 🌲  
   Validating, recursive, caching DNS resolver built by NLnet Labs. Serves as the security baseline for self-hosted DNS infrastructure, performing full cryptographic DNSSEC validation and root server recursion.
 
-- **[NextDNS CLI](https://github.com/nextdns/nextdns)** [![GitHub stars](https://img.shields.io/github/stars/nextdns/nextdns?style=social)](https://github.com/nextdns/nextdns/stargazers) 📲  
+- **[NextDNS CLI](https://github.com/nextdns/nextdns)** [![GitHub_Stars](https://img.shields.io/github/stars/nextdns/nextdns?style=social)](https://github.com/nextdns/nextdns/stargazers) 📲  
   Lightweight client for NextDNS that runs on routers and endpoints. Enables encrypted DNS-over-HTTPS (DoH) with per-device identification, local hostname resolution, and cloud-configured content filtering.
 
-- **[Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)** [![GitHub stars](https://img.shields.io/github/stars/TechnitiumSoftware/DnsServer?style=social)](https://github.com/TechnitiumSoftware/DnsServer/stargazers) 🎛️  
+- **[Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)** [![GitHub_Stars](https://img.shields.io/github/stars/TechnitiumSoftware/DnsServer?style=social)](https://github.com/TechnitiumSoftware/DnsServer/stargazers) 🎛️  
   Self-hosted cross-platform DNS server featuring a rich web console, authoritative/recursive modes, built-in ad blocking, DoH/DoT/DoQ, clustering, and advanced DNS application plugins. Serves 100,000+ QPS.
 
-- **[PowerDNS](https://github.com/PowerDNS/pdns)** [![GitHub stars](https://img.shields.io/github/stars/PowerDNS/pdns?style=social)](https://github.com/PowerDNS/pdns/stargazers) ⚡  
+- **[PowerDNS](https://github.com/PowerDNS/pdns)** [![GitHub_Stars](https://img.shields.io/github/stars/PowerDNS/pdns?style=social)](https://github.com/PowerDNS/pdns/stargazers) ⚡  
   Enterprise-grade high-performance DNS server suite providing Authoritative Server and DNS Recursor modules. Supports backend databases (MySQL, PostgreSQL), Lua scripting for dynamic policy enforcement, and RPZ threat feed ingestion.
 
-- **[ZDNS](https://github.com/zmap/zdns)** [![GitHub stars](https://img.shields.io/github/stars/zmap/zdns?style=social)](https://github.com/zmap/zdns/stargazers) 🔬  
+- **[ZDNS](https://github.com/zmap/zdns)** [![GitHub_Stars](https://img.shields.io/github/stars/zmap/zdns?style=social)](https://github.com/zmap/zdns/stargazers) 🔬  
   High-speed CLI DNS lookup tool written in Go by the ZMap team. Designed for security research, mass domain resolution, threat intelligence extraction, and high-throughput network measurement.
 
-- **[qdm12/dns](https://github.com/qdm12/dns)** [![GitHub stars](https://img.shields.io/github/stars/qdm12/dns?style=social)](https://github.com/qdm12/dns/stargazers) 🐳  
+- **[qdm12/dns](https://github.com/qdm12/dns)** [![GitHub_Stars](https://img.shields.io/github/stars/qdm12/dns?style=social)](https://github.com/qdm12/dns/stargazers) 🐳  
   Containerized DNS-over-TLS/HTTPS proxy and resolver with built-in blocklists for malicious hosts, ads, and telemetry. Built with LRU caching, Prometheus metrics, and custom allow/block CIDRs.
 
 ---
